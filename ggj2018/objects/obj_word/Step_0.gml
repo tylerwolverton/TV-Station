@@ -1,8 +1,8 @@
 x -= spd;
 
-if point_in_rectangle(mouse_x, mouse_y, x, y, x + textWidth, y + textHeight)
+if(point_in_rectangle(mouse_x, mouse_y, x, y, x + textWidth, y + textHeight))
 {
-	if mouse_check_button_pressed(mb_left)
+	if(mouse_check_button_pressed(mb_left))
 	{
 		if(wordType == "good") 
 		{
