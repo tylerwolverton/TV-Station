@@ -1,0 +1,1 @@
+curRatings = 50;

@@ -12,7 +12,6 @@ for(i = 1; i < string_length(newsText); i++)
 	{
 		goodWordArray[wordIndex++] = curWord;
 		curWord = "";
-		// add cooldown based on letter count
 	}
 	else
 	{

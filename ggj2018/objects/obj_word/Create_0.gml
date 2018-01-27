@@ -3,6 +3,7 @@ badWordText = "#!@*%";
 wordType = "";
 cooldown = 20;
 spd = 4;
+isLast = false;
 
 badTextWidth = string_width_ext(badWordText, -1, 100);
 goodTextWidth = 0;

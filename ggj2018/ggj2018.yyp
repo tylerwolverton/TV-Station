@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0dab1851-1ef8-416a-8286-6d0338a41b6f",
+            "Value": {
+                "id": "b255d02a-4bce-4252-8268-d8575e8cc687",
+                "resourcePath": "rooms\\cooking\\cooking.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "0e038a5a-3d64-4cc6-8645-aa96d7d6f984",
             "Value": {
                 "id": "618689a1-00fe-4e2d-9a97-8243a34a57a1",
@@ -47,6 +55,14 @@
             }
         },
         {
+            "Key": "139a12ef-ab7e-4844-96ba-8d9450a25043",
+            "Value": {
+                "id": "64e4ea75-9a8b-471e-96a7-d545d42e2c64",
+                "resourcePath": "sprites\\spr_grilledCheeseRecipe\\spr_grilledCheeseRecipe.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "16e72af4-8df9-40d1-b3fd-e53715ef3b22",
             "Value": {
                 "id": "482f0bdf-6d42-42f9-9595-acb9fae3768f",
@@ -60,6 +76,14 @@
                 "id": "5a196dfd-6fe5-4227-a9bf-7c2091db5e06",
                 "resourcePath": "views\\1d599f5d-4920-4605-aa10-564b06dc9d20.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "286e0931-f665-46fe-badd-16320cf7fbf2",
+            "Value": {
+                "id": "64f6e388-71ac-4778-8251-a40cef515608",
+                "resourcePath": "sprites\\spr_catGood\\spr_catGood.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -87,6 +111,14 @@
             }
         },
         {
+            "Key": "5f00f2e8-0e7e-4abb-9e5e-a9b059d80247",
+            "Value": {
+                "id": "65eb2321-1a5f-41da-8f2d-6e32e078f14c",
+                "resourcePath": "sprites\\spr_goodWordAnim\\spr_goodWordAnim.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6c3a8a5d-7041-43d2-83ea-1e30a2ab6ebf",
             "Value": {
                 "id": "ce4d9668-9753-49e1-958c-f3c9d8db1a54",
@@ -95,11 +127,43 @@
             }
         },
         {
+            "Key": "7287c5c2-115d-4e6e-9c3a-decb6a622499",
+            "Value": {
+                "id": "0ccdc5c8-ba8b-46fc-8128-f930a62b8898",
+                "resourcePath": "sprites\\spr_newsBackground\\spr_newsBackground.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "82554e68-50f2-46bd-966b-dda152e7743f",
             "Value": {
                 "id": "34c665e7-38f5-4ac8-ab58-46977bd44697",
                 "resourcePath": "views\\82554e68-50f2-46bd-966b-dda152e7743f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "93e65812-f98f-4847-9d34-3ea090fd7344",
+            "Value": {
+                "id": "b56af9a4-16e8-4914-8e2b-71e7f520fc7e",
+                "resourcePath": "objects\\obj_grilledCheeseRecipe\\obj_grilledCheeseRecipe.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "95907da4-bd2b-4dcc-bf40-2d9e2deff5a9",
+            "Value": {
+                "id": "14a74134-298a-4fba-9a7f-ca4d5620b52e",
+                "resourcePath": "sprites\\sprite7\\sprite7.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9caf574a-4727-4df0-a108-b7abaf65a6f1",
+            "Value": {
+                "id": "03e83bad-75bc-4f4e-936b-81fc683f2245",
+                "resourcePath": "objects\\obj_newsAnchorGood\\obj_newsAnchorGood.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -127,6 +191,14 @@
             }
         },
         {
+            "Key": "b5995d78-7610-4c01-a8c7-99acc0027237",
+            "Value": {
+                "id": "5949c495-ea7f-473d-8017-377f4635474c",
+                "resourcePath": "objects\\obj_newsAnchorBad\\obj_newsAnchorBad.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b5c798f4-b4aa-4c76-8e7b-b3ec556a61e2",
             "Value": {
                 "id": "5b74b53f-f3c3-4da0-887d-54d627465d45",
@@ -140,6 +212,22 @@
                 "id": "5f95bc5c-fa0b-4a30-aa75-6aee2b604e05",
                 "resourcePath": "views\\bb5ab2de-4f80-4fa7-bf5b-a389f6dd68c3.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c01f988e-3f7c-4155-be00-6d7f982987ef",
+            "Value": {
+                "id": "de1c2d2a-8918-44a1-9600-8d88a64faa13",
+                "resourcePath": "objects\\obj_ratings\\obj_ratings.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c63e2f91-37e1-452e-b1d0-e7b4c501de2a",
+            "Value": {
+                "id": "28a73e2d-6979-4af8-a68c-dcf645ab73f3",
+                "resourcePath": "sprites\\spr_anchorBad\\spr_anchorBad.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -164,6 +252,14 @@
                 "id": "13213fc4-53ed-40d3-839f-b698bcadbee9",
                 "resourcePath": "views\\cfee89c8-f765-4e00-bbd9-fd3fb5afefeb.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d2c9b622-1c2d-4dd8-83dc-a99e91a50372",
+            "Value": {
+                "id": "661dd563-5c6f-4544-845c-42abbabaa4a6",
+                "resourcePath": "sprites\\spr_tvScreen\\spr_tvScreen.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
