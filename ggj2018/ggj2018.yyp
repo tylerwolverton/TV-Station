@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "16e72af4-8df9-40d1-b3fd-e53715ef3b22",
+            "Value": {
+                "id": "482f0bdf-6d42-42f9-9595-acb9fae3768f",
+                "resourcePath": "objects\\obj_wordGenerator\\obj_wordGenerator.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1d599f5d-4920-4605-aa10-564b06dc9d20",
             "Value": {
                 "id": "5a196dfd-6fe5-4227-a9bf-7c2091db5e06",
@@ -55,11 +63,27 @@
             }
         },
         {
+            "Key": "2f10ee9d-92e4-4ebc-95a9-1e4db9903b4b",
+            "Value": {
+                "id": "b45789a8-0ff4-4311-b367-f6d36e629509",
+                "resourcePath": "fonts\\fnt_newsText\\fnt_newsText.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "540dccac-bfd5-4999-b50f-668f4cd615b1",
             "Value": {
                 "id": "b97bb618-f753-4d7c-8eab-836e1a4ea9fa",
                 "resourcePath": "views\\540dccac-bfd5-4999-b50f-668f4cd615b1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "565e419a-07d7-4a25-9d7b-9fab52ada9de",
+            "Value": {
+                "id": "4e1f74f1-0de3-4292-ac4b-0b52b07b9cbd",
+                "resourcePath": "objects\\obj_newsText1\\obj_newsText1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -92,6 +116,14 @@
                 "id": "93a8ba67-e8c3-4c75-ac70-0c11856b05e3",
                 "resourcePath": "views\\a300b6a0-099f-40e4-b59f-c9892570f998.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b0092f0c-a997-4715-a68e-dbef8719726e",
+            "Value": {
+                "id": "0553a64a-dfdd-4792-8c35-fdb0c6dc8022",
+                "resourcePath": "sprites\\sprite0\\sprite0.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -140,6 +172,14 @@
                 "id": "066f8e16-bdd9-4260-b9ef-644bf3d9598e",
                 "resourcePath": "views\\d44aae98-5f32-4333-b145-364ef5f3ce50.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dcc5bbb9-38d7-410a-861a-c7c2f1302bce",
+            "Value": {
+                "id": "9190952f-06e5-4e45-b4ba-abd1f2931ee2",
+                "resourcePath": "objects\\obj_word\\obj_word.yy",
+                "resourceType": "GMObject"
             }
         },
         {
