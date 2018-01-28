@@ -1,2 +1,0 @@
-buttonId = "mediumHeat";
-selected = false;

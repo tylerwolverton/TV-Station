@@ -1,6 +1,6 @@
 newsText = "Good afternoon! We've had a lovely day so far with five fluffy kittens being returned to their owner after going on an unexpected walk around town. That's all the news we have for today, talk to you lovely people tomorrow! .";
 
-badWordArray[0] = 5; badWordArray[1] = 11; badWordArray[2] = 14; badWordArray[3] = 17; badWordArray[4] = 23; badWordArray[5] = 25; badWordArray[6] = 29; badWordArray[7] = 37; badWordArray[8] = 38;
+badWordArray[0] = 5; badWordArray[1] = 11; badWordArray[2] = 14; badWordArray[3] = 17; badWordArray[4] = 23; badWordArray[5] = 25; badWordArray[6] = 29; badwordArray[7] = 33; badWordArray[8] = 37; badWordArray[9] = 38;
 
 goodWordArray[0] = "";
 wordIndex = 0;

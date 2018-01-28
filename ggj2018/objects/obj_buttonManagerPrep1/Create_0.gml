@@ -1,1 +1,0 @@
-correctButtonArray[0] = "";

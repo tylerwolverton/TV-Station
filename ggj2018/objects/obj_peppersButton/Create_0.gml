@@ -1,2 +1,0 @@
-buttonId = "peppers";
-selected = false;

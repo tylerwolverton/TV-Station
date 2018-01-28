@@ -1,2 +1,0 @@
-buttonId = "highHeat";
-selected = false;

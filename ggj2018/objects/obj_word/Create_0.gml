@@ -4,6 +4,9 @@ wordType = "";
 cooldown = 20;
 spd = 4;
 isLast = false;
+isLastBreaking = false;
+textColor = c_black;
+newsNum = 1;
 
 badTextWidth = string_width_ext(badWordText, -1, 100);
 goodTextWidth = 0;
