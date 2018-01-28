@@ -6,6 +6,7 @@ spd = 4;
 isLast = false;
 isLastBreaking = false;
 textColor = c_black;
+curTextColor = textColor;
 newsNum = 1;
 
 badTextWidth = string_width_ext(badWordText, -1, 100);

@@ -1,5 +1,5 @@
 draw_set_font(fnt_newsText);
-draw_set_color(textColor);
+draw_set_color(curTextColor);
 
 if(wordType == "good")
 {

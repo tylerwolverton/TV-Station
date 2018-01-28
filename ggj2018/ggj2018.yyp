@@ -31,10 +31,26 @@
     },
     "resources": [
         {
+            "Key": "0475cb7c-e355-432d-bd2a-98829af90162",
+            "Value": {
+                "id": "23f0b1d5-c14a-49ed-8c1e-0edc363ebf28",
+                "resourcePath": "sounds\\snd_static\\snd_static.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "0649f184-258f-47f8-a1b8-a3fd5d106fdf",
             "Value": {
                 "id": "d9b4d49c-7bc7-4d5f-bc7e-de1c932d139c",
                 "resourcePath": "objects\\obj_newsAnchorBadArt\\obj_newsAnchorBadArt.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "07a8928d-ff4b-4a22-97b1-a53af8946719",
+            "Value": {
+                "id": "887827b8-0574-4124-99d9-df80f92c58bf",
+                "resourcePath": "objects\\obj_resultsNormal\\obj_resultsNormal.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -63,11 +79,35 @@
             }
         },
         {
+            "Key": "0ff63ae5-a517-4884-939c-fa80d3783631",
+            "Value": {
+                "id": "dd5e4580-c898-4696-b7cb-6fdfe60b9f3e",
+                "resourcePath": "sounds\\snd_xyloNews3\\snd_xyloNews3.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "11c48fc6-0baf-4af0-82fd-c8a6e78d37a4",
+            "Value": {
+                "id": "c111a730-4edd-4adc-a113-5468687f77e2",
+                "resourcePath": "objects\\obj_renewed\\obj_renewed.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "138ea9cf-754d-4a83-9500-97d799fc2eea",
             "Value": {
                 "id": "62fb6c87-a51b-4e95-886d-6ca1e606a325",
                 "resourcePath": "views\\138ea9cf-754d-4a83-9500-97d799fc2eea.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1586d846-b73c-4469-b3da-11472a851f07",
+            "Value": {
+                "id": "60605c7c-5d5b-4ada-a336-46c1c314b5be",
+                "resourcePath": "sprites\\spr_thanksForPlaying\\spr_thanksForPlaying.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -103,11 +143,27 @@
             }
         },
         {
+            "Key": "22c73563-b370-466a-9a2b-bd3a4fba2719",
+            "Value": {
+                "id": "b3a0230e-e8f5-4a94-af01-445ebfe494de",
+                "resourcePath": "sounds\\snd_failBeep\\snd_failBeep.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "239cec82-4eca-4895-b2b4-6c54bafaffc2",
             "Value": {
                 "id": "495e138d-4437-4a11-9bea-82940bed93c8",
                 "resourcePath": "views\\239cec82-4eca-4895-b2b4-6c54bafaffc2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "25b151da-8130-4b94-9650-244820ca9f90",
+            "Value": {
+                "id": "c3a0c45c-22c4-483a-9b42-6ec331f78583",
+                "resourcePath": "sprites\\spr_farts\\spr_farts.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -159,6 +215,14 @@
             }
         },
         {
+            "Key": "33c54366-3636-4fa3-9e64-f33d14ba5df5",
+            "Value": {
+                "id": "204043ba-5d18-445a-96f1-4502422a03af",
+                "resourcePath": "sounds\\snd_newsBackground\\snd_newsBackground.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "368d53dd-91bf-4035-a579-ecfbccf087ef",
             "Value": {
                 "id": "b3311e0c-2e79-425f-960a-64505be401a3",
@@ -175,11 +239,35 @@
             }
         },
         {
+            "Key": "3b75b95c-b3b1-4ad3-91bb-33df3ee9e345",
+            "Value": {
+                "id": "cc6248c5-a024-494b-9086-d9d59342ef18",
+                "resourcePath": "sounds\\snd_canceled\\snd_canceled.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "3e7724d3-9e44-43ca-b3fe-bb02e710465f",
+            "Value": {
+                "id": "edebaefd-45e0-47af-a24b-0872cdaa4784",
+                "resourcePath": "sounds\\snd_thanksForPlaying\\snd_thanksForPlaying.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "40f8f75f-1c0b-483e-9434-e3024044f7c3",
             "Value": {
                 "id": "1f9e0b6d-76d1-436e-8873-687558face4e",
                 "resourcePath": "rooms\\static1\\static1.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "47d6f9c1-ba25-4b82-900f-32617f847f52",
+            "Value": {
+                "id": "9ab7bfee-c049-4d7e-a324-dd3a41215cb2",
+                "resourcePath": "sprites\\spr_canceled\\spr_canceled.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -271,6 +359,22 @@
             }
         },
         {
+            "Key": "60c08bc0-2d16-49a0-a9a9-362938878f8d",
+            "Value": {
+                "id": "52cd3bcc-470c-4ebc-86af-189ee33d5970",
+                "resourcePath": "sounds\\snd_applause\\snd_applause.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "67462671-de93-4112-b6eb-ebcd37f0aa55",
+            "Value": {
+                "id": "34c79404-c2f8-443d-a563-f96de2d8aac3",
+                "resourcePath": "sprites\\spr_primetime\\spr_primetime.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "693496cf-8bcf-41ea-89d4-210eba0536cc",
             "Value": {
                 "id": "2d08233b-a7b6-41b0-ab67-c9bb7a1b1970",
@@ -311,6 +415,14 @@
             }
         },
         {
+            "Key": "772f194e-0c4d-4417-a6be-1ff2206fb210",
+            "Value": {
+                "id": "9202475d-9382-45d5-a77d-e69a220b47a5",
+                "resourcePath": "objects\\obj_resultsPoop\\obj_resultsPoop.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7e093a2a-e51c-4a1e-9a53-f9080d38730b",
             "Value": {
                 "id": "e37a0c80-a962-4fd2-9e52-08a970ce5058",
@@ -348,6 +460,14 @@
                 "id": "1a69c495-7527-4b46-8e88-ac95854546ef",
                 "resourcePath": "options\\ios\\options_ios.yy",
                 "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "8a43cc74-9fe7-4e99-a20b-108d7b03f074",
+            "Value": {
+                "id": "bd5d4f7f-7750-4838-bf44-69b68f48cb3a",
+                "resourcePath": "objects\\obj_canceled\\obj_canceled.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -439,6 +559,14 @@
             }
         },
         {
+            "Key": "a9773b31-add7-4515-8938-981af615e74e",
+            "Value": {
+                "id": "e231d781-0256-4ccf-9e26-d75152283d69",
+                "resourcePath": "sounds\\snd_newsIntro\\snd_newsIntro.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "abb4fa91-f8cb-497b-8909-5be4a3290cb4",
             "Value": {
                 "id": "28cca1e0-4c05-49f2-95fe-d2b457c6891e",
@@ -487,11 +615,35 @@
             }
         },
         {
+            "Key": "bedadc7a-50cc-4bf1-ada8-0b7ba86d7365",
+            "Value": {
+                "id": "498f0511-c7e3-4e97-b519-884e2db15b49",
+                "resourcePath": "objects\\obj_farts\\obj_farts.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bf9e6898-4168-4eaf-af11-a60ad73d94d3",
+            "Value": {
+                "id": "ab24b9aa-7ccb-4d63-881f-ad6aa8f090dd",
+                "resourcePath": "sprites\\spr_results\\spr_results.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c01f988e-3f7c-4155-be00-6d7f982987ef",
             "Value": {
                 "id": "de1c2d2a-8918-44a1-9600-8d88a64faa13",
                 "resourcePath": "objects\\obj_ratings\\obj_ratings.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c1985eb8-9a1f-4b3c-adaa-352e80729f28",
+            "Value": {
+                "id": "1ed18ae7-8900-449c-8234-7f28e1ce7fab",
+                "resourcePath": "sprites\\spr_awardWinning\\spr_awardWinning.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -535,11 +687,35 @@
             }
         },
         {
+            "Key": "cca36b4a-a8f3-48ed-a7d6-ff9d3e00c1e5",
+            "Value": {
+                "id": "dc5bf73e-d71c-450a-9152-022ade27ad79",
+                "resourcePath": "sounds\\snd_awardWinning\\snd_awardWinning.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "ce016fc9-cf15-4612-93ae-626f9c26aa50",
+            "Value": {
+                "id": "1e8765a8-f6f2-4741-baec-aeaf3a43fe36",
+                "resourcePath": "objects\\obj_awardWinning\\obj_awardWinning.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cf785130-19c1-410e-a448-3f5e6693ae50",
             "Value": {
                 "id": "845d651a-953f-4f8e-9001-cc68d526d102",
                 "resourcePath": "objects\\obj_breakingNewsBar\\obj_breakingNewsBar.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "cfbe2c7c-db64-4b6b-a9fe-24dc82490a54",
+            "Value": {
+                "id": "5f3fcebb-bde9-49f1-a24a-40f8d094dfd5",
+                "resourcePath": "sounds\\snd_farts\\snd_farts.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -599,6 +775,14 @@
             }
         },
         {
+            "Key": "dd27dbc4-0209-4ed3-a5c0-303174a12abc",
+            "Value": {
+                "id": "5561f78b-1415-4002-8e77-38ad01f674b0",
+                "resourcePath": "sprites\\spr_resultsPoop\\spr_resultsPoop.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e36828e7-65bb-4b87-a61e-b316c7d25bbc",
             "Value": {
                 "id": "38f25f5c-b9f2-47de-8a18-b58158f719a3",
@@ -639,6 +823,14 @@
             }
         },
         {
+            "Key": "eb0323ed-0209-437e-be32-c1cc15acd9de",
+            "Value": {
+                "id": "3e4dc7c1-0f71-4742-b6a4-ee0c5017ba81",
+                "resourcePath": "sprites\\spr_renewed\\spr_renewed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ed8361fe-f941-480c-ba5e-ba805898aedd",
             "Value": {
                 "id": "8ae1aa88-051c-431f-bd81-f471418c9901",
@@ -676,6 +868,14 @@
                 "id": "728c7278-9dc2-4fba-b315-f94485e6b3b9",
                 "resourcePath": "options\\xboxone\\options_xboxone.yy",
                 "resourceType": "GMXBoxOneOptions"
+            }
+        },
+        {
+            "Key": "fe75fdd8-3bc4-445b-805a-86ef832fc8be",
+            "Value": {
+                "id": "2c9df681-a761-47bd-acfc-55464d7b98f1",
+                "resourcePath": "objects\\obj_primetime\\obj_primetime.yy",
+                "resourceType": "GMObject"
             }
         }
     ],

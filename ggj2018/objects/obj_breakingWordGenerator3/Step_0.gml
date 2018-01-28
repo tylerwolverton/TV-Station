@@ -23,6 +23,7 @@ if(startDelay < 1)
 			{
 				wordText = other.word;
 				wordType = other.wordType;
+				textColor = c_white;
 				//spd = -5;
 				newsNum = 3;
 				goodTextWidth = string_width_ext(wordText, -1, 100);
@@ -53,6 +54,8 @@ else
 	if(startDelay < 1)
 	{
 		instance_create_layer(42, 525, "InstanceBreaking", obj_breakingNewsBar);
+		audio_pause_all();
+		audio_play_sound(snd_xyloNews3, 10, true);
 		curWordNum = 0;
 	}
 }
