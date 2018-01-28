@@ -1,0 +1,2 @@
+buttonId = "lowHeat";
+selected = false;

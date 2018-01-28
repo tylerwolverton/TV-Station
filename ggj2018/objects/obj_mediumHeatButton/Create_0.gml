@@ -1,0 +1,2 @@
+buttonId = "mediumHeat";
+selected = false;

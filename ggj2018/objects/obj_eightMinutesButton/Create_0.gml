@@ -1,0 +1,2 @@
+buttonId = "eightMinutes";
+selected = false;
